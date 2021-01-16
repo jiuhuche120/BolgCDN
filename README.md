@@ -1,1 +1,1 @@
-# BolgCDN
+# CDN
